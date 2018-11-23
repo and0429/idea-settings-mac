@@ -1,4 +1,24 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="Console.Execute" />
+  <action id="DirDiffMenu.SynchronizeDiff" />
+  <action id="EditorChooseLookupItem" />
+  <action id="EditorEnter" />
+  <action id="Images.Thumbnails.EnterAction" />
+  <action id="MemoryView.ShowInstances">
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="MemoryView.ShowInstancesFromDebuggerTree">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="NextOccurence" />
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
   <action id="PreviousOccurence" />
+  <action id="SetShortcutAction">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+  </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+  </action>
 </keymap>
