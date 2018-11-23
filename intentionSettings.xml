@@ -1,7 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Java/Declaration/Split Declaration and Initialization" />
-    <ignoreAction name="Java/Declaration/Convert Interface to Class" />
-    <ignoreAction name="Java/Declaration/Split Declaration" />
-  </component>
-</application>

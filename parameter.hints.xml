@@ -1,9 +1,0 @@
-<application>
-  <component name="ParameterNameHintsSettings">
-    <blacklists>
-      <blacklist language="Java">
-        <added pattern="sun.net.www.http.HttpClient.HttpClient(url)" />
-      </blacklist>
-    </blacklists>
-  </component>
-</application>
