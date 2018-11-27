@@ -1,20 +1,12 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
-        <file url="PROJECT" charset="UTF-8" />
-      </component>
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
-            <option name="mavenHome" value="D:/java/apache-maven-3.5.4" />
-            <option name="userSettingsFile" value="D:\java\apache-maven-3.5.4\conf\settings.xml" />
+            <option name="mavenHome" value="$USER_HOME$/java/apache-maven-3.5.2" />
+            <option name="userSettingsFile" value="$USER_HOME$/java/apache-maven-3.5.2/conf/settings.xml" />
           </MavenGeneralSettings>
-        </option>
-        <option name="importingSettings">
-          <MavenImportingSettings>
-            <option name="importAutomatically" value="true" />
-          </MavenImportingSettings>
         </option>
       </component>
       <component name="ProjectDictionaryState">
@@ -25,9 +17,6 @@
           <profile-state>
             <expanded-state>
               <State />
-              <State>
-                <id>Manifest</id>
-              </State>
               <State>
                 <id>Spelling</id>
               </State>
@@ -40,52 +29,14 @@
           </profile-state>
         </entry>
       </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
       <component name="PropertiesComponent">
-        <property name="project.structure.last.edited" value="Problems" />
-        <property name="project.structure.proportion" value="0.0" />
-        <property name="project.structure.side.proportion" value="0.2" />
-        <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+        <property name="settings.editor.selected.configurable" value="MavenSettings" />
       </component>
       <component name="masterDetails">
         <states>
-          <state key="GlobalLibrariesConfigurable.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-          <state key="JdkListConfigurable.UI">
-            <settings>
-              <last-edited>1.8</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
           <state key="ProjectJDKs.UI">
             <settings>
               <last-edited>1.8</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-          <state key="ProjectLibrariesConfigurable.UI">
-            <settings>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
