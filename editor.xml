@@ -3,4 +3,9 @@
     <option name="FONT_SIZE" value="13" />
     <option name="FONT_FAMILY" value="Ayuthaya" />
   </component>
+  <component name="EditorSettings">
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
+    <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="1000" />
+  </component>
 </application>
