@@ -1,0 +1,11 @@
+<templateSet group="Class">
+  <template name="t" value="*&#10; * @author: $user$&#10; * @date: $date$&#10; * @time  $time$&#10; * @Title: $file_name$&#10; */" description="Java annotition" toReformat="false" toShortenFQNames="true">
+    <variable name="user" expression="user()" defaultValue="zhangkai" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="file_name" expression="fileName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
